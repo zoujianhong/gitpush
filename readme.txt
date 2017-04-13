@@ -6,3 +6,5 @@ Git has a mutable index called stage.
 
 临时存放区
 工作区
+
+gitpush modified.
