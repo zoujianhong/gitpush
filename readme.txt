@@ -15,5 +15,5 @@ master modified second.
 dev modified.
 
 master modified
-dev2 modified
-dev2 modified second
+dev2 modified.
+dev2 modified second.
