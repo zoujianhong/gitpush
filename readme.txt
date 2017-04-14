@@ -13,3 +13,5 @@ gitpush modified second.
 master modified.
 master modified second.
 dev modified.
+
+master modified
