@@ -15,3 +15,4 @@ master modified second.
 dev modified.
 
 master modified
+dev2 modified
