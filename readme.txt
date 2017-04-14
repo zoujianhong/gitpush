@@ -9,3 +9,5 @@ Git has a mutable index called stage.
 
 gitpush modified.
 gitpush modified second.
+
+master modify.
